@@ -1,3 +1,5 @@
+## <span style="color:red;">此项目不再更新，修改版[HttpServer](https://github.com/lovercode/HttpServer)</span>
+
 ## codelover http服务器(待完善)
 
     为学习linux下高并发服务器开发,写了这个http服务器
